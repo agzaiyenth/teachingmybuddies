@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    font-size: 1.5rem;
+    min-height: 200vh;
+}
+.outer-container{
+    border: 3px dashed black;
+    height: 85vh;
+    width: 75vw;
+    margin: 40px auto;
+}
+.inner-container{
+    border: 2px dotted red;
+    width: 40vw;
+    width: 40vw;
+    height: 50vh;
+    margin: 200px; 
+}
+.box{
+  width: 150px;
+  height: 150px;
+  color: #fff;
+  padding: 1rem;
+}
