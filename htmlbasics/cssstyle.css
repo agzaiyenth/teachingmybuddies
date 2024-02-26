@@ -1,0 +1,23 @@
+/* changing the list item display from "block" to "inline" so that aligns the items one after eachother*/
+li{
+  display: inline;
+  padding: 20px;
+}
+
+/* aligning the list center and applying bg color */
+ul{
+  background-color: rgba(0, 0, 255, 0.637);
+  text-align: center;
+  
+}
+ /* styling paragraph inside the div element using sub-element styling method 
+ (IMPORTANT-look at the space between "div p")this defines its a sub element */
+div p{
+  color: red;
+}
+
+/* we can add styling to multiple elements using same class name */
+
+.tryingsameclass{
+  color: blue;
+}
