@@ -1,4 +1,4 @@
-<b>JAVAFX</b><br><br>
+<b style="color:red;">JAVAFX</b><br><br>
 JavaFX Udemy course<br>
 [https://www.udemy.com/course/crash-course-into-javafx-the-best-way-to-make-gui-apps/](Udemy_Link)<br>
 JavaFX GFG<br>
