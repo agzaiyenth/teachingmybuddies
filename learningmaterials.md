@@ -1,4 +1,4 @@
-<b style="color:red;">JAVAFX</b><br><br>
+<b>JAVAFX</b><br><br>
 JavaFX Udemy course<br>
 [https://www.udemy.com/course/crash-course-into-javafx-the-best-way-to-make-gui-apps/](Udemy_Link)<br>
 JavaFX GFG<br>
@@ -10,7 +10,7 @@ JavaFX Tutorial Point<br>
 JavaFX JavaPoint <br>
 [https://www.javatpoint.com/javafx-tutorial](JavaPoint)<br><br>
 
-JAVASCRIPT<br>
+<b>JAVASCRIPT</b><br>
 Telusko JavaScript<br>
 [https://www.youtube.com/watch?v=PlbupGCBV6w&list=PLsyeobzWxl7rrvgG7MLNIMSTzVCDZZcT4](Youtube)<br>
 JavaScript Intro EDX<br>
