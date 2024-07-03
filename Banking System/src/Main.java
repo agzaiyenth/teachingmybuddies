@@ -87,6 +87,7 @@ public class Main {
     }
 
     public static void displayDetails(){
+        /*Imply your sorting algorithm here*/
         if(customerCount>0) {
             System.out.println("\nCustomer Details:\n");
 
